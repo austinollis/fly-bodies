@@ -45,6 +45,10 @@ body {
     text-align: center;
 }
 
+.twelve-week-program ul {
+    text-align: left;
+}
+
 
 
 
@@ -55,6 +59,59 @@ body {
     background: #efefef;
     text-align: center;
 }
+
+.twelve-week-recipies ul {
+    text-align: left;
+}
+
+#week-one {
+    background-color: burlywood;
+}
+
+#week-two {
+    background-color: blue;
+}
+
+#week-three {
+    background-color: green;
+}
+
+#week-four {
+    background-color: rgb(223, 141, 18);
+}
+
+#week-five {
+    background-color: blue;
+}
+
+#week-six {
+    background-color: green;;
+}
+
+#week-seven {
+    background-color: rgb(223, 141, 18);
+}
+
+#week-eight {
+    background-color: blue;
+}
+
+#week-nine {
+    background-color: green;
+}
+
+#week-ten {
+    background-color: rgb(223, 141, 18);
+}
+
+#week-eleven {
+    background-color: blue;
+}
+
+#week-twelve {
+    background-color: burlywood;
+}
+
 
 
 /*---------------Health and Fitness Info---------*/
