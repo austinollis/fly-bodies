@@ -27,13 +27,34 @@ body {
 /*-------------Weekly News--------*/
 
 #weeklynews {
-    padding: 40px 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
     color: black;
     background: #efefef;
     text-align: center;
 }
 .weekly-news {
-    background:rgb(49, 88, 173);
+    background-color: blue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#weekly-quote {
+    background-color: gray;
+}
+
+#weekly-recipe {
+    background: #333;
+    color: rgb(235, 235, 235);
+}
+
+#weekly-workout-challenge {
+    background-color: gray;
+}
+
+#weekly-fitness-article {
+    background: #333;
+    color: rgb(235, 235, 235);
 }
 
 /*----------Workouts----------*/
@@ -65,7 +86,7 @@ body {
 }
 
 #week-one {
-    background-color: burlywood;
+    background-color: gray;
 }
 
 #week-two {
@@ -73,11 +94,11 @@ body {
 }
 
 #week-three {
-    background-color: green;
+    background-color: gray;
 }
 
 #week-four {
-    background-color: rgb(223, 141, 18);
+    background-color: blue;
 }
 
 #week-five {
@@ -85,31 +106,31 @@ body {
 }
 
 #week-six {
-    background-color: green;;
+    background-color: gray;
 }
 
 #week-seven {
-    background-color: rgb(223, 141, 18);
+    background-color: blue;
 }
 
 #week-eight {
-    background-color: blue;
+    background-color: gray;
 }
 
 #week-nine {
-    background-color: green;
+    background-color: gray;
 }
 
 #week-ten {
-    background-color: rgb(223, 141, 18);
-}
-
-#week-eleven {
     background-color: blue;
 }
 
+#week-eleven {
+    background-color: gray;
+}
+
 #week-twelve {
-    background-color: burlywood;
+    background-color: blue;
 }
 
 
